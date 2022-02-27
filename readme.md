@@ -1,4 +1,4 @@
-# Javascript project [amware]
+# Javascript project
 
 # Project-list
 
