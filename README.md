@@ -6,4 +6,4 @@ List of javascript projects by Alpha 2022 Batch
 
 # Project List
 
-- <a href="README.md"> Captcha</a>
+- <a href="https://github.com/HemansAI/javascript-projects/tree/main/captcha-generator"> Captcha</a>
