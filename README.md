@@ -10,3 +10,7 @@ List of javascript projects by Alpha 2022 Batch
 - <a href="https://github.com/HemansAI/javascript-projects/tree/main/ADOBE%20CLONE">Adobe Clone</a>
 - <a href="https://github.com/HemansAI/javascript-projects/tree/main/calculator">calculator</a>
 
+
+
+- Bittorrent Client using NodeJS
+- Telegram Bot
